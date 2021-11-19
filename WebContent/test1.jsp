@@ -7,8 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>git테스트프로젝트</h1>
-	<h3>프로젝트 옆에 꺽쇠가 있으면 깃으로 관리 오른쪽 클릭후 team ->share</h3>
-	<hr>
+	<h1>테스트파일</h1>
 </body>
 </html>
